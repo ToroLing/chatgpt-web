@@ -51,5 +51,18 @@ export default {
     timeout: 'Timeout',
     socks: 'Socks',
   },
-
+home: {
+    Examples1: 'Explain quantum computing in simple terms',
+    Examples2: 'Got any creative ideas for a 10 year old’s birthday? ',
+    Examples3: 'How do I make an HTTP request in Javascript?',
+    Capabilities1: 'Remembers what user said earlier in the conversation',
+    Capabilities2: 'Allows user to provide follow-up corrections',
+    Capabilities3: 'Trained to decline inappropriate requests',
+    Limitations1: 'May occasionally generate incorrect information',
+    Limitations2: 'May occasionally produce harmful instructions or biased content',
+    Limitations3: 'Limited knowledge of world and events after 2021',
+    Examples: 'Examples',
+    Capabilities: 'Capabilities',
+    Limitations: 'Limitations',
+ },
 }
